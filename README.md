@@ -7,7 +7,7 @@
 
 <!-- /!\ do not modify above this line -->
 
-# Account financial Tools for Odoo
+# Account financial Tools for Odoo.
 
 TODO: add repo description.
 
