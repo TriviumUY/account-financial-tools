@@ -6,37 +6,37 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-01-30 13:44+0000\n"
-"Last-Translator: Francesco Foresti <francesco.foresti@ooops404.com>\n"
+"PO-Revision-Date: 2024-12-17 15:06+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #. module: account_menu
 #: model:ir.model,name:account_menu.model_account_group
 msgid "Account Group"
-msgstr "Gruppo di Conti"
+msgstr "Gruppo contabile"
 
 #. module: account_menu
 #: model:ir.actions.act_window,name:account_menu.account_group_action
 #: model:ir.ui.menu,name:account_menu.account_group_menu
 msgid "Account Groups"
-msgstr "Gruppi di Conti"
+msgstr "Gruppi contabili"
 
 #. module: account_menu
 #: model:ir.model,name:account_menu.model_account_account_tag
 msgid "Account Tag"
-msgstr "Tag Conto"
+msgstr "Etichetta conto"
 
 #. module: account_menu
 #: model:ir.actions.act_window,name:account_menu.account_account_tag_action
 #: model:ir.ui.menu,name:account_menu.account_tag_menu
 msgid "Account Tags"
-msgstr "Tag Conto"
+msgstr "Etichette conto"
 
 #. module: account_menu
 #: model_terms:ir.ui.view,arch_db:account_menu.view_account_tax_group_form
@@ -53,7 +53,7 @@ msgstr "Gruppi di Imposte"
 #: model:ir.actions.act_window,name:account_menu.account_account_template_action
 #: model:ir.ui.menu,name:account_menu.menu_account_account_template
 msgid "Account Templates"
-msgstr "Modelli di Conto"
+msgstr "Modelli conto"
 
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.account_type_menu
@@ -69,12 +69,12 @@ msgstr "Conti"
 #. module: account_menu
 #: model_terms:ir.ui.view,arch_db:account_menu.res_config_settings_view_form
 msgid "Anglo-Saxon Accounting"
-msgstr "Contabilità Anglosassone"
+msgstr "Contabilità anglosassone"
 
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.menu_accounting_statement_bank
 msgid "Bank Statements"
-msgstr "Estratti Conto Bancari"
+msgstr "Estratti conto bancari"
 
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.menu_accounting_bank_and_cash
@@ -84,12 +84,12 @@ msgstr "Banca e Cassa"
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.menu_accounting_statement_cash
 msgid "Cash Registers"
-msgstr "Registri di Cassa"
+msgstr "Registri di cassa"
 
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.menu_account_chart_template
 msgid "Chart of Accounts Templates"
-msgstr "Modelli Piano dei Conti"
+msgstr "Modelli Piano dei conti"
 
 #. module: account_menu
 #: model:ir.model,name:account_menu.model_res_config_settings
@@ -108,7 +108,7 @@ msgstr "Nome visualizzato"
 #: model:ir.actions.act_window,name:account_menu.account_fiscal_position_template_action
 #: model:ir.ui.menu,name:account_menu.menu_account_fiscal_position_template
 msgid "Fiscal Position Templates"
-msgstr "Modelli Posizioni Fiscali"
+msgstr "Modelli posizioni fiscali"
 
 #. module: account_menu
 #: model:ir.model.fields,field_description:account_menu.field_account_account_tag__id
@@ -151,7 +151,7 @@ msgstr ""
 #. module: account_menu
 #: model_terms:ir.ui.view,arch_db:account_menu.view_account_tax_group_search
 msgid "Sequence"
-msgstr ""
+msgstr "Sequenza"
 
 #. module: account_menu
 #: model:ir.model,name:account_menu.model_account_tax_group
@@ -162,7 +162,7 @@ msgstr "Gruppo imposte"
 #: model:ir.actions.act_window,name:account_menu.action_account_tax_group
 #: model:ir.ui.menu,name:account_menu.account_tax_group_menu
 msgid "Tax Groups"
-msgstr ""
+msgstr "Gruppi imposte"
 
 #. module: account_menu
 #: model:ir.ui.menu,name:account_menu.menu_account_tax_template

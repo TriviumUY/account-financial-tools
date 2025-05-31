@@ -86,7 +86,7 @@
                             context="{'currency': currency_id,
                                         'journal_id': journal_id}"
                         >
-                            <tree>
+                            <tree create="false">
                                 <field name="date" />
                                 <field name="date_maturity" optional="hide" />
                                 <field name="journal_id" optional="hide" />
@@ -202,7 +202,7 @@
     <menuitem
         action="action_check_deposit_tree"
         id="menu_check_deposit_tree"
-        parent="account.menu_finance_entries_accounting_miscellaneous"
-        sequence="30"
+        parent="account.menu_finance_receivables"
+        sequence="19"
     />
 </odoo>
